@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\18032022-3 basamaklı tırıvır\bin\Debug\18032022-3 basamaklı tırıvır.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\18032022-3 basamaklı tırıvır\bin\Debug\18032022-3 basamaklı tırıvır.exe
+C:\Users\STUDENT2\Desktop\ozgur\18032022-3 basamaklı tırıvır\bin\Debug\18032022-3 basamaklı tırıvır.pdb
+C:\Users\STUDENT2\Desktop\ozgur\18032022-3 basamaklı tırıvır\obj\Debug\18032022-3 basamaklı tırıvır.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\18032022-3 basamaklı tırıvır\obj\Debug\18032022-3 basamaklı tırıvır.exe
+C:\Users\STUDENT2\Desktop\ozgur\18032022-3 basamaklı tırıvır\obj\Debug\18032022-3 basamaklı tırıvır.pdb

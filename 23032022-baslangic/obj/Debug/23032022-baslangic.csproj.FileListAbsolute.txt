@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\source\repos\23032022-baslangic\bin\Debug\23032022-baslangic.exe.config
+C:\Users\STUDENT2\source\repos\23032022-baslangic\bin\Debug\23032022-baslangic.exe
+C:\Users\STUDENT2\source\repos\23032022-baslangic\bin\Debug\23032022-baslangic.pdb
+C:\Users\STUDENT2\source\repos\23032022-baslangic\obj\Debug\23032022-baslangic.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\source\repos\23032022-baslangic\obj\Debug\23032022-baslangic.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\source\repos\23032022-baslangic\obj\Debug\23032022-baslangic.exe
+C:\Users\STUDENT2\source\repos\23032022-baslangic\obj\Debug\23032022-baslangic.pdb

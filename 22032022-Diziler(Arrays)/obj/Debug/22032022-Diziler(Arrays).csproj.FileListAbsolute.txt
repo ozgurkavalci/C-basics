@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\22032022-Diziler(Arrays)\bin\Debug\22032022-Diziler(Arrays).exe.config
+C:\Users\STUDENT2\Desktop\ozgur\22032022-Diziler(Arrays)\bin\Debug\22032022-Diziler(Arrays).exe
+C:\Users\STUDENT2\Desktop\ozgur\22032022-Diziler(Arrays)\bin\Debug\22032022-Diziler(Arrays).pdb
+C:\Users\STUDENT2\Desktop\ozgur\22032022-Diziler(Arrays)\obj\Debug\22032022-Diziler(Arrays).csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\ozgur\22032022-Diziler(Arrays)\obj\Debug\22032022-Diziler(Arrays).csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\22032022-Diziler(Arrays)\obj\Debug\22032022-Diziler(Arrays).exe
+C:\Users\STUDENT2\Desktop\ozgur\22032022-Diziler(Arrays)\obj\Debug\22032022-Diziler(Arrays).pdb

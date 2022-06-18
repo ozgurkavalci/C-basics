@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıstenılensayıkadarharfyazanprogram\bin\Debug\21032022-ıstenılensayıkadarharfyazanprogram.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıstenılensayıkadarharfyazanprogram\bin\Debug\21032022-ıstenılensayıkadarharfyazanprogram.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıstenılensayıkadarharfyazanprogram\bin\Debug\21032022-ıstenılensayıkadarharfyazanprogram.pdb
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıstenılensayıkadarharfyazanprogram\obj\Debug\21032022-ıstenılensayıkadarharfyazanprogram.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıstenılensayıkadarharfyazanprogram\obj\Debug\21032022-ıstenılensayıkadarharfyazanprogram.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıstenılensayıkadarharfyazanprogram\obj\Debug\21032022-ıstenılensayıkadarharfyazanprogram.pdb

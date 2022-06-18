@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\21032022-whileornekleredevam\bin\Debug\21032022-whileornekleredevam.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\21032022-whileornekleredevam\bin\Debug\21032022-whileornekleredevam.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-whileornekleredevam\bin\Debug\21032022-whileornekleredevam.pdb
+C:\Users\STUDENT2\Desktop\ozgur\21032022-whileornekleredevam\obj\Debug\21032022-whileornekleredevam.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\21032022-whileornekleredevam\obj\Debug\21032022-whileornekleredevam.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-whileornekleredevam\obj\Debug\21032022-whileornekleredevam.pdb

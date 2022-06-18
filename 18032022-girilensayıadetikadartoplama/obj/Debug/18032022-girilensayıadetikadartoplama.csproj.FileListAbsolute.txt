@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\18032022-girilensayıadetikadartoplama\bin\Debug\18032022-girilensayıadetikadartoplama.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\18032022-girilensayıadetikadartoplama\bin\Debug\18032022-girilensayıadetikadartoplama.exe
+C:\Users\STUDENT2\Desktop\ozgur\18032022-girilensayıadetikadartoplama\bin\Debug\18032022-girilensayıadetikadartoplama.pdb
+C:\Users\STUDENT2\Desktop\ozgur\18032022-girilensayıadetikadartoplama\obj\Debug\18032022-girilensayıadetikadartoplama.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\18032022-girilensayıadetikadartoplama\obj\Debug\18032022-girilensayıadetikadartoplama.exe
+C:\Users\STUDENT2\Desktop\ozgur\18032022-girilensayıadetikadartoplama\obj\Debug\18032022-girilensayıadetikadartoplama.pdb

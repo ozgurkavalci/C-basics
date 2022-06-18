@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\source\repos\23032022-Metotlar gırıs\bin\Debug\23032022-Metotlar gırıs.exe.config
+C:\Users\STUDENT2\source\repos\23032022-Metotlar gırıs\bin\Debug\23032022-Metotlar gırıs.exe
+C:\Users\STUDENT2\source\repos\23032022-Metotlar gırıs\bin\Debug\23032022-Metotlar gırıs.pdb
+C:\Users\STUDENT2\source\repos\23032022-Metotlar gırıs\obj\Debug\23032022-Metotlar gırıs.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\source\repos\23032022-Metotlar gırıs\obj\Debug\23032022-Metotlar gırıs.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\source\repos\23032022-Metotlar gırıs\obj\Debug\23032022-Metotlar gırıs.exe
+C:\Users\STUDENT2\source\repos\23032022-Metotlar gırıs\obj\Debug\23032022-Metotlar gırıs.pdb

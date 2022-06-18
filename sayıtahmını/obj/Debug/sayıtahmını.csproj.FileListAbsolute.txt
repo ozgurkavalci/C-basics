@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\sayıtahmını\bin\Debug\sayıtahmını.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\sayıtahmını\bin\Debug\sayıtahmını.exe
+C:\Users\STUDENT2\Desktop\ozgur\sayıtahmını\bin\Debug\sayıtahmını.pdb
+C:\Users\STUDENT2\Desktop\ozgur\sayıtahmını\obj\Debug\sayıtahmını.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\sayıtahmını\obj\Debug\sayıtahmını.exe
+C:\Users\STUDENT2\Desktop\ozgur\sayıtahmını\obj\Debug\sayıtahmını.pdb

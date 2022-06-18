@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\2.Uygulama\bin\Debug\2.Uygulama.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\2.Uygulama\bin\Debug\2.Uygulama.exe
+C:\Users\STUDENT2\Desktop\ozgur\2.Uygulama\bin\Debug\2.Uygulama.pdb
+C:\Users\STUDENT2\Desktop\ozgur\2.Uygulama\obj\Debug\2.Uygulama.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\ozgur\2.Uygulama\obj\Debug\2.Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\2.Uygulama\obj\Debug\2.Uygulama.exe
+C:\Users\STUDENT2\Desktop\ozgur\2.Uygulama\obj\Debug\2.Uygulama.pdb

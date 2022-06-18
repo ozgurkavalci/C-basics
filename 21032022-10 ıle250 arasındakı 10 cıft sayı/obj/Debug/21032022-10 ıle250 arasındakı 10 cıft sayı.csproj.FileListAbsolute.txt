@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\21032022-10 ıle250 arasındakı 10 cıft sayı\bin\Debug\21032022-10 ıle250 arasındakı 10 cıft sayı.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\21032022-10 ıle250 arasındakı 10 cıft sayı\bin\Debug\21032022-10 ıle250 arasındakı 10 cıft sayı.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-10 ıle250 arasındakı 10 cıft sayı\bin\Debug\21032022-10 ıle250 arasındakı 10 cıft sayı.pdb
+C:\Users\STUDENT2\Desktop\ozgur\21032022-10 ıle250 arasındakı 10 cıft sayı\obj\Debug\21032022-10 ıle250 arasındakı 10 cıft sayı.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\21032022-10 ıle250 arasındakı 10 cıft sayı\obj\Debug\21032022-10 ıle250 arasındakı 10 cıft sayı.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-10 ıle250 arasındakı 10 cıft sayı\obj\Debug\21032022-10 ıle250 arasındakı 10 cıft sayı.pdb

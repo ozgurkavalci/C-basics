@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arrayornekleredevam\bin\Debug\22032022-arrayornekleredevam.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arrayornekleredevam\bin\Debug\22032022-arrayornekleredevam.exe
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arrayornekleredevam\bin\Debug\22032022-arrayornekleredevam.pdb
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arrayornekleredevam\obj\Debug\22032022-arrayornekleredevam.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arrayornekleredevam\obj\Debug\22032022-arrayornekleredevam.exe
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arrayornekleredevam\obj\Debug\22032022-arrayornekleredevam.pdb

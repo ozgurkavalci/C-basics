@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\source\repos\23032022-metod2\bin\Debug\23032022-metod2.exe.config
+C:\Users\STUDENT2\source\repos\23032022-metod2\bin\Debug\23032022-metod2.exe
+C:\Users\STUDENT2\source\repos\23032022-metod2\bin\Debug\23032022-metod2.pdb
+C:\Users\STUDENT2\source\repos\23032022-metod2\obj\Debug\23032022-metod2.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\source\repos\23032022-metod2\obj\Debug\23032022-metod2.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\source\repos\23032022-metod2\obj\Debug\23032022-metod2.exe
+C:\Users\STUDENT2\source\repos\23032022-metod2\obj\Debug\23032022-metod2.pdb

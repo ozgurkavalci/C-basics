@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\source\repos\17032022.Faktorıyel\bin\Debug\17032022.Faktorıyel.exe.config
+C:\Users\STUDENT2\source\repos\17032022.Faktorıyel\bin\Debug\17032022.Faktorıyel.exe
+C:\Users\STUDENT2\source\repos\17032022.Faktorıyel\bin\Debug\17032022.Faktorıyel.pdb
+C:\Users\STUDENT2\source\repos\17032022.Faktorıyel\obj\Debug\17032022.Faktorıyel.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\source\repos\17032022.Faktorıyel\obj\Debug\17032022.Faktorıyel.exe
+C:\Users\STUDENT2\source\repos\17032022.Faktorıyel\obj\Debug\17032022.Faktorıyel.pdb

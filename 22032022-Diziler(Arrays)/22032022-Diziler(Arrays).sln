@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22032022-Diziler(Arrays)", "22032022-Diziler(Arrays).csproj", "{C92E2EF5-F09F-477D-851C-723CE0A4471A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22032022-arrays", "..\22032022-arrays\22032022-arrays.csproj", "{F693FA83-16AF-436A-B7DC-E31B5962DDE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22032022-arrayornekleredevam", "..\22032022-arrayornekleredevam\22032022-arrayornekleredevam.csproj", "{D2250415-7E99-4617-85A9-C863337D1957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22032022-arraysornekleredevamm", "..\22032022-arraysornekleredevamm\22032022-arraysornekleredevamm.csproj", "{C66355B9-D7A6-4444-8FF4-6AD5EF6181C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22032022-dizileredevammmmmm", "..\22032022-dizileredevammmmmm\22032022-dizileredevammmmmm.csproj", "{4B6D5BC9-4C5E-4462-8477-82560699D192}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C92E2EF5-F09F-477D-851C-723CE0A4471A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92E2EF5-F09F-477D-851C-723CE0A4471A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92E2EF5-F09F-477D-851C-723CE0A4471A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92E2EF5-F09F-477D-851C-723CE0A4471A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F693FA83-16AF-436A-B7DC-E31B5962DDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F693FA83-16AF-436A-B7DC-E31B5962DDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F693FA83-16AF-436A-B7DC-E31B5962DDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F693FA83-16AF-436A-B7DC-E31B5962DDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2250415-7E99-4617-85A9-C863337D1957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2250415-7E99-4617-85A9-C863337D1957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2250415-7E99-4617-85A9-C863337D1957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2250415-7E99-4617-85A9-C863337D1957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66355B9-D7A6-4444-8FF4-6AD5EF6181C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66355B9-D7A6-4444-8FF4-6AD5EF6181C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66355B9-D7A6-4444-8FF4-6AD5EF6181C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66355B9-D7A6-4444-8FF4-6AD5EF6181C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B6D5BC9-4C5E-4462-8477-82560699D192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6D5BC9-4C5E-4462-8477-82560699D192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6D5BC9-4C5E-4462-8477-82560699D192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6D5BC9-4C5E-4462-8477-82560699D192}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D5BE48F-FEC0-4FD1-BE60-CEBA99E5BA16}
+	EndGlobalSection
+EndGlobal

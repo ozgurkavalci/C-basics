@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\source\repos\17022022-3.2ve7bolunme\bin\Debug\17022022-3.2ve7bolunme.exe.config
+C:\Users\STUDENT2\source\repos\17022022-3.2ve7bolunme\bin\Debug\17022022-3.2ve7bolunme.exe
+C:\Users\STUDENT2\source\repos\17022022-3.2ve7bolunme\bin\Debug\17022022-3.2ve7bolunme.pdb
+C:\Users\STUDENT2\source\repos\17022022-3.2ve7bolunme\obj\Debug\17022022-3.2ve7bolunme.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\source\repos\17022022-3.2ve7bolunme\obj\Debug\17022022-3.2ve7bolunme.exe
+C:\Users\STUDENT2\source\repos\17022022-3.2ve7bolunme\obj\Debug\17022022-3.2ve7bolunme.pdb

@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\ilkuygulama\bin\Debug\ilkuygulama.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\ilkuygulama\bin\Debug\ilkuygulama.exe
+C:\Users\STUDENT2\Desktop\ozgur\ilkuygulama\bin\Debug\ilkuygulama.pdb
+C:\Users\STUDENT2\Desktop\ozgur\ilkuygulama\obj\Debug\ilkuygulama.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\ozgur\ilkuygulama\obj\Debug\ilkuygulama.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\ilkuygulama\obj\Debug\ilkuygulama.exe
+C:\Users\STUDENT2\Desktop\ozgur\ilkuygulama\obj\Debug\ilkuygulama.pdb

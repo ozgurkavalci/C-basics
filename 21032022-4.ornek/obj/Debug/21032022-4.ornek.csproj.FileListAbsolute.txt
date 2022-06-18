@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\21032022-4.ornek\bin\Debug\21032022-4.ornek.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\21032022-4.ornek\bin\Debug\21032022-4.ornek.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-4.ornek\bin\Debug\21032022-4.ornek.pdb
+C:\Users\STUDENT2\Desktop\ozgur\21032022-4.ornek\obj\Debug\21032022-4.ornek.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\ozgur\21032022-4.ornek\obj\Debug\21032022-4.ornek.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\21032022-4.ornek\obj\Debug\21032022-4.ornek.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-4.ornek\obj\Debug\21032022-4.ornek.pdb

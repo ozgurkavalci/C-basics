@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\source\repos\17032022.4 .1 den gırılen sayı\bin\Debug\_17032022._4._1_den_gırılen_sayı.exe.config
+C:\Users\STUDENT2\source\repos\17032022.4 .1 den gırılen sayı\bin\Debug\_17032022._4._1_den_gırılen_sayı.exe
+C:\Users\STUDENT2\source\repos\17032022.4 .1 den gırılen sayı\bin\Debug\_17032022._4._1_den_gırılen_sayı.pdb
+C:\Users\STUDENT2\source\repos\17032022.4 .1 den gırılen sayı\obj\Debug\17032022.4 .1 den gırılen sayı.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\source\repos\17032022.4 .1 den gırılen sayı\obj\Debug\17032022.4 .1 den gırılen sayı.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\source\repos\17032022.4 .1 den gırılen sayı\obj\Debug\_17032022._4._1_den_gırılen_sayı.exe
+C:\Users\STUDENT2\source\repos\17032022.4 .1 den gırılen sayı\obj\Debug\_17032022._4._1_den_gırılen_sayı.pdb

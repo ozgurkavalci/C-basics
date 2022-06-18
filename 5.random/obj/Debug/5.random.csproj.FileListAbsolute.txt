@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\5.random\bin\Debug\5.random.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\5.random\bin\Debug\5.random.exe
+C:\Users\STUDENT2\Desktop\ozgur\5.random\bin\Debug\5.random.pdb
+C:\Users\STUDENT2\Desktop\ozgur\5.random\obj\Debug\5.random.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\5.random\obj\Debug\5.random.exe
+C:\Users\STUDENT2\Desktop\ozgur\5.random\obj\Debug\5.random.pdb
+C:\Users\STUDENT2\Desktop\ozgur\5.random\obj\Debug\5.random.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\3.tur donusumu\bin\Debug\3.tur donusumu.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\3.tur donusumu\bin\Debug\3.tur donusumu.exe
+C:\Users\STUDENT2\Desktop\ozgur\3.tur donusumu\bin\Debug\3.tur donusumu.pdb
+C:\Users\STUDENT2\Desktop\ozgur\3.tur donusumu\obj\Debug\3.tur donusumu.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\3.tur donusumu\obj\Debug\3.tur donusumu.exe
+C:\Users\STUDENT2\Desktop\ozgur\3.tur donusumu\obj\Debug\3.tur donusumu.pdb
+C:\Users\STUDENT2\Desktop\ozgur\3.tur donusumu\obj\Debug\3.tur donusumu.csproj.AssemblyReference.cache

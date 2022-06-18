@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arrays\bin\Debug\22032022-arrays.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arrays\bin\Debug\22032022-arrays.exe
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arrays\bin\Debug\22032022-arrays.pdb
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arrays\obj\Debug\22032022-arrays.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arrays\obj\Debug\22032022-arrays.exe
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arrays\obj\Debug\22032022-arrays.pdb
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arrays\obj\Debug\22032022-arrays.csproj.AssemblyReference.cache

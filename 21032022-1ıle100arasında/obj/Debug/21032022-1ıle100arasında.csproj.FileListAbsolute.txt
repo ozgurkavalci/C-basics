@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\21032022-1ıle100arasında\bin\Debug\21032022-1ıle100arasında.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\21032022-1ıle100arasında\bin\Debug\21032022-1ıle100arasında.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-1ıle100arasında\bin\Debug\21032022-1ıle100arasında.pdb
+C:\Users\STUDENT2\Desktop\ozgur\21032022-1ıle100arasında\obj\Debug\21032022-1ıle100arasında.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\ozgur\21032022-1ıle100arasında\obj\Debug\21032022-1ıle100arasında.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\21032022-1ıle100arasında\obj\Debug\21032022-1ıle100arasında.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-1ıle100arasında\obj\Debug\21032022-1ıle100arasında.pdb

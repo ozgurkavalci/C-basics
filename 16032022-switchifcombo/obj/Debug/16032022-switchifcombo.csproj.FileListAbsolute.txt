@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\16032022-switchifcombo\bin\Debug\16032022-switchifcombo.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\16032022-switchifcombo\bin\Debug\16032022-switchifcombo.exe
+C:\Users\STUDENT2\Desktop\ozgur\16032022-switchifcombo\bin\Debug\16032022-switchifcombo.pdb
+C:\Users\STUDENT2\Desktop\ozgur\16032022-switchifcombo\obj\Debug\16032022-switchifcombo.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\ozgur\16032022-switchifcombo\obj\Debug\16032022-switchifcombo.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\16032022-switchifcombo\obj\Debug\16032022-switchifcombo.exe
+C:\Users\STUDENT2\Desktop\ozgur\16032022-switchifcombo\obj\Debug\16032022-switchifcombo.pdb

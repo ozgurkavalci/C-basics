@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\4.girilensayıtekmiciftmi\bin\Debug\4.girilensayıtekmiciftmi.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\4.girilensayıtekmiciftmi\bin\Debug\4.girilensayıtekmiciftmi.exe
+C:\Users\STUDENT2\Desktop\ozgur\4.girilensayıtekmiciftmi\bin\Debug\4.girilensayıtekmiciftmi.pdb
+C:\Users\STUDENT2\Desktop\ozgur\4.girilensayıtekmiciftmi\obj\Debug\4.girilensayıtekmiciftmi.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\4.girilensayıtekmiciftmi\obj\Debug\4.girilensayıtekmiciftmi.exe
+C:\Users\STUDENT2\Desktop\ozgur\4.girilensayıtekmiciftmi\obj\Debug\4.girilensayıtekmiciftmi.pdb

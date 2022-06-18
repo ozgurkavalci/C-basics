@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\18032022-taban hesabı\bin\Debug\18032022-taban hesabı.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\18032022-taban hesabı\bin\Debug\18032022-taban hesabı.exe
+C:\Users\STUDENT2\Desktop\ozgur\18032022-taban hesabı\bin\Debug\18032022-taban hesabı.pdb
+C:\Users\STUDENT2\Desktop\ozgur\18032022-taban hesabı\obj\Debug\18032022-taban hesabı.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\18032022-taban hesabı\obj\Debug\18032022-taban hesabı.exe
+C:\Users\STUDENT2\Desktop\ozgur\18032022-taban hesabı\obj\Debug\18032022-taban hesabı.pdb

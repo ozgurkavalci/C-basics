@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\18032022-ilk uygulama\bin\Debug\18032022-ilk uygulama.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\18032022-ilk uygulama\bin\Debug\18032022-ilk uygulama.exe
+C:\Users\STUDENT2\Desktop\ozgur\18032022-ilk uygulama\bin\Debug\18032022-ilk uygulama.pdb
+C:\Users\STUDENT2\Desktop\ozgur\18032022-ilk uygulama\obj\Debug\18032022-ilk uygulama.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\ozgur\18032022-ilk uygulama\obj\Debug\18032022-ilk uygulama.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\18032022-ilk uygulama\obj\Debug\18032022-ilk uygulama.exe
+C:\Users\STUDENT2\Desktop\ozgur\18032022-ilk uygulama\obj\Debug\18032022-ilk uygulama.pdb

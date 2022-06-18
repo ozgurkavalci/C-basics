@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\16032022-otopark sistemi\bin\Debug\16032022-otopark sistemi.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\16032022-otopark sistemi\bin\Debug\16032022-otopark sistemi.exe
+C:\Users\STUDENT2\Desktop\ozgur\16032022-otopark sistemi\bin\Debug\16032022-otopark sistemi.pdb
+C:\Users\STUDENT2\Desktop\ozgur\16032022-otopark sistemi\obj\Debug\16032022-otopark sistemi.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\16032022-otopark sistemi\obj\Debug\16032022-otopark sistemi.exe
+C:\Users\STUDENT2\Desktop\ozgur\16032022-otopark sistemi\obj\Debug\16032022-otopark sistemi.pdb

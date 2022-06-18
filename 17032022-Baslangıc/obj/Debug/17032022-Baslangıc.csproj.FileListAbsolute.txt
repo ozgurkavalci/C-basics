@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\17032022-Baslangıc\bin\Debug\17032022-Baslangıc.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\17032022-Baslangıc\bin\Debug\17032022-Baslangıc.exe
+C:\Users\STUDENT2\Desktop\ozgur\17032022-Baslangıc\bin\Debug\17032022-Baslangıc.pdb
+C:\Users\STUDENT2\Desktop\ozgur\17032022-Baslangıc\obj\Debug\17032022-Baslangıc.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\ozgur\17032022-Baslangıc\obj\Debug\17032022-Baslangıc.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\17032022-Baslangıc\obj\Debug\17032022-Baslangıc.exe
+C:\Users\STUDENT2\Desktop\ozgur\17032022-Baslangıc\obj\Debug\17032022-Baslangıc.pdb

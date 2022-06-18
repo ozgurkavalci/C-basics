@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\16032022switchcase\bin\Debug\16032022switchcase.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\16032022switchcase\bin\Debug\16032022switchcase.exe
+C:\Users\STUDENT2\Desktop\ozgur\16032022switchcase\bin\Debug\16032022switchcase.pdb
+C:\Users\STUDENT2\Desktop\ozgur\16032022switchcase\obj\Debug\16032022switchcase.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\16032022switchcase\obj\Debug\16032022switchcase.exe
+C:\Users\STUDENT2\Desktop\ozgur\16032022switchcase\obj\Debug\16032022switchcase.pdb

@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arraysornekleredevamm\bin\Debug\22032022-arraysornekleredevamm.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arraysornekleredevamm\bin\Debug\22032022-arraysornekleredevamm.exe
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arraysornekleredevamm\bin\Debug\22032022-arraysornekleredevamm.pdb
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arraysornekleredevamm\obj\Debug\22032022-arraysornekleredevamm.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arraysornekleredevamm\obj\Debug\22032022-arraysornekleredevamm.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arraysornekleredevamm\obj\Debug\22032022-arraysornekleredevamm.exe
+C:\Users\STUDENT2\Desktop\ozgur\22032022-arraysornekleredevamm\obj\Debug\22032022-arraysornekleredevamm.pdb

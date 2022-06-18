@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\18032022-75den 300 e kadar\bin\Debug\18032022-75den 300 e kadar.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\18032022-75den 300 e kadar\bin\Debug\18032022-75den 300 e kadar.exe
+C:\Users\STUDENT2\Desktop\ozgur\18032022-75den 300 e kadar\bin\Debug\18032022-75den 300 e kadar.pdb
+C:\Users\STUDENT2\Desktop\ozgur\18032022-75den 300 e kadar\obj\Debug\18032022-75den 300 e kadar.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\18032022-75den 300 e kadar\obj\Debug\18032022-75den 300 e kadar.exe
+C:\Users\STUDENT2\Desktop\ozgur\18032022-75den 300 e kadar\obj\Debug\18032022-75den 300 e kadar.pdb

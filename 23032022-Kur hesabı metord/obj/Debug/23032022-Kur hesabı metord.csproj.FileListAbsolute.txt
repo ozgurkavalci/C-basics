@@ -1,0 +1,14 @@
+C:\Users\STUDENT2\source\repos\23032022-Kur hesabı metord\bin\Debug\23032022-Kur hesabı metord.exe.config
+C:\Users\STUDENT2\source\repos\23032022-Kur hesabı metord\bin\Debug\23032022-Kur hesabı metord.exe
+C:\Users\STUDENT2\source\repos\23032022-Kur hesabı metord\bin\Debug\23032022-Kur hesabı metord.pdb
+C:\Users\STUDENT2\source\repos\23032022-Kur hesabı metord\obj\Debug\23032022-Kur hesabı metord.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\source\repos\23032022-Kur hesabı metord\obj\Debug\23032022-Kur hesabı metord.exe
+C:\Users\STUDENT2\source\repos\23032022-Kur hesabı metord\obj\Debug\23032022-Kur hesabı metord.pdb
+C:\Users\ozgur\OneDrive\Masaüstü\ozgur\23032022-Kur hesabı metord\bin\Debug\23032022-Kur hesabı metord.exe.config
+C:\Users\ozgur\OneDrive\Masaüstü\ozgur\23032022-Kur hesabı metord\bin\Debug\23032022-Kur hesabı metord.exe
+C:\Users\ozgur\OneDrive\Masaüstü\ozgur\23032022-Kur hesabı metord\bin\Debug\23032022-Kur hesabı metord.pdb
+C:\Users\ozgur\OneDrive\Masaüstü\ozgur\23032022-Kur hesabı metord\obj\Debug\23032022-Kur hesabı metord.csproj.AssemblyReference.cache
+C:\Users\ozgur\OneDrive\Masaüstü\ozgur\23032022-Kur hesabı metord\obj\Debug\23032022-Kur hesabı metord.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozgur\OneDrive\Masaüstü\ozgur\23032022-Kur hesabı metord\obj\Debug\23032022-Kur hesabı metord.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\OneDrive\Masaüstü\ozgur\23032022-Kur hesabı metord\obj\Debug\23032022-Kur hesabı metord.exe
+C:\Users\ozgur\OneDrive\Masaüstü\ozgur\23032022-Kur hesabı metord\obj\Debug\23032022-Kur hesabı metord.pdb

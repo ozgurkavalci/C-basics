@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\2103200-girilendegerin 2.defa da bulunması ve tekrar sayısı\bin\Debug\2103200-girilendegerin 2.defa da bulunması ve tekrar sayısı.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\2103200-girilendegerin 2.defa da bulunması ve tekrar sayısı\bin\Debug\2103200-girilendegerin 2.defa da bulunması ve tekrar sayısı.exe
+C:\Users\STUDENT2\Desktop\ozgur\2103200-girilendegerin 2.defa da bulunması ve tekrar sayısı\bin\Debug\2103200-girilendegerin 2.defa da bulunması ve tekrar sayısı.pdb
+C:\Users\STUDENT2\Desktop\ozgur\2103200-girilendegerin 2.defa da bulunması ve tekrar sayısı\obj\Debug\2103200-girilendegerin 2.defa da bulunması ve tekrar sayısı.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\ozgur\2103200-girilendegerin 2.defa da bulunması ve tekrar sayısı\obj\Debug\2103200-girilendegerin 2.defa da bulunması ve tekrar sayısı.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\2103200-girilendegerin 2.defa da bulunması ve tekrar sayısı\obj\Debug\2103200-girilendegerin 2.defa da bulunması ve tekrar sayısı.exe
+C:\Users\STUDENT2\Desktop\ozgur\2103200-girilendegerin 2.defa da bulunması ve tekrar sayısı\obj\Debug\2103200-girilendegerin 2.defa da bulunması ve tekrar sayısı.pdb

@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\21032022-Bakterıornegı\bin\Debug\21032022-Bakterıornegı.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\21032022-Bakterıornegı\bin\Debug\21032022-Bakterıornegı.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-Bakterıornegı\bin\Debug\21032022-Bakterıornegı.pdb
+C:\Users\STUDENT2\Desktop\ozgur\21032022-Bakterıornegı\obj\Debug\21032022-Bakterıornegı.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\ozgur\21032022-Bakterıornegı\obj\Debug\21032022-Bakterıornegı.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\21032022-Bakterıornegı\obj\Debug\21032022-Bakterıornegı.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-Bakterıornegı\obj\Debug\21032022-Bakterıornegı.pdb

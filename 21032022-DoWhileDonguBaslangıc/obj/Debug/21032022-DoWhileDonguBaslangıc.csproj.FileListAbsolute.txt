@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\21032022-DoWhileDonguBaslangıc\bin\Debug\21032022-DoWhileDonguBaslangıc.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\21032022-DoWhileDonguBaslangıc\bin\Debug\21032022-DoWhileDonguBaslangıc.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-DoWhileDonguBaslangıc\bin\Debug\21032022-DoWhileDonguBaslangıc.pdb
+C:\Users\STUDENT2\Desktop\ozgur\21032022-DoWhileDonguBaslangıc\obj\Debug\21032022-DoWhileDonguBaslangıc.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\21032022-DoWhileDonguBaslangıc\obj\Debug\21032022-DoWhileDonguBaslangıc.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-DoWhileDonguBaslangıc\obj\Debug\21032022-DoWhileDonguBaslangıc.pdb

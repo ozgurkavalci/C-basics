@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\denemeforfor\bin\Debug\denemeforfor.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\denemeforfor\bin\Debug\denemeforfor.exe
+C:\Users\STUDENT2\Desktop\ozgur\denemeforfor\bin\Debug\denemeforfor.pdb
+C:\Users\STUDENT2\Desktop\ozgur\denemeforfor\obj\Debug\denemeforfor.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\denemeforfor\obj\Debug\denemeforfor.exe
+C:\Users\STUDENT2\Desktop\ozgur\denemeforfor\obj\Debug\denemeforfor.pdb

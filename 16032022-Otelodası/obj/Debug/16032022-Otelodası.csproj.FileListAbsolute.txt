@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\16032022-Otelodası\obj\Debug\16032022-Otelodası.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\ozgur\16032022-Otelodası\obj\Debug\16032022-Otelodası.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\16032022-Otelodası\bin\Debug\16032022-Otelodası.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\16032022-Otelodası\bin\Debug\16032022-Otelodası.exe
+C:\Users\STUDENT2\Desktop\ozgur\16032022-Otelodası\bin\Debug\16032022-Otelodası.pdb
+C:\Users\STUDENT2\Desktop\ozgur\16032022-Otelodası\obj\Debug\16032022-Otelodası.exe
+C:\Users\STUDENT2\Desktop\ozgur\16032022-Otelodası\obj\Debug\16032022-Otelodası.pdb

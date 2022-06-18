@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\16032022-ılk\bin\Debug\16032022-ılk.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\16032022-ılk\bin\Debug\16032022-ılk.exe
+C:\Users\STUDENT2\Desktop\ozgur\16032022-ılk\bin\Debug\16032022-ılk.pdb
+C:\Users\STUDENT2\Desktop\ozgur\16032022-ılk\obj\Debug\16032022-ılk.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\ozgur\16032022-ılk\obj\Debug\16032022-ılk.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\16032022-ılk\obj\Debug\16032022-ılk.exe
+C:\Users\STUDENT2\Desktop\ozgur\16032022-ılk\obj\Debug\16032022-ılk.pdb

@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\21032022-i harfi gelince bitir\bin\Debug\21032022-i harfi gelince bitir.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\21032022-i harfi gelince bitir\bin\Debug\21032022-i harfi gelince bitir.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-i harfi gelince bitir\bin\Debug\21032022-i harfi gelince bitir.pdb
+C:\Users\STUDENT2\Desktop\ozgur\21032022-i harfi gelince bitir\obj\Debug\21032022-i harfi gelince bitir.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\21032022-i harfi gelince bitir\obj\Debug\21032022-i harfi gelince bitir.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-i harfi gelince bitir\obj\Debug\21032022-i harfi gelince bitir.pdb

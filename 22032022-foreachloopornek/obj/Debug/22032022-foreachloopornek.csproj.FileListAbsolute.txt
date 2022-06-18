@@ -1,0 +1,7 @@
+C:\Users\STUDENT2\Desktop\ozgur\22032022-foreachloopornek\bin\Debug\22032022-foreachloopornek.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\22032022-foreachloopornek\bin\Debug\22032022-foreachloopornek.exe
+C:\Users\STUDENT2\Desktop\ozgur\22032022-foreachloopornek\bin\Debug\22032022-foreachloopornek.pdb
+C:\Users\STUDENT2\Desktop\ozgur\22032022-foreachloopornek\obj\Debug\22032022-foreachloopornek.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\ozgur\22032022-foreachloopornek\obj\Debug\22032022-foreachloopornek.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\22032022-foreachloopornek\obj\Debug\22032022-foreachloopornek.exe
+C:\Users\STUDENT2\Desktop\ozgur\22032022-foreachloopornek\obj\Debug\22032022-foreachloopornek.pdb

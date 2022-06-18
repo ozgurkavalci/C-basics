@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıcıcreforornegı\bin\Debug\21032022-ıcıcreforornegı.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıcıcreforornegı\bin\Debug\21032022-ıcıcreforornegı.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıcıcreforornegı\bin\Debug\21032022-ıcıcreforornegı.pdb
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıcıcreforornegı\obj\Debug\21032022-ıcıcreforornegı.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıcıcreforornegı\obj\Debug\21032022-ıcıcreforornegı.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıcıcreforornegı\obj\Debug\21032022-ıcıcreforornegı.pdb

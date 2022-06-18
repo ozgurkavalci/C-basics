@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıcıcrforcarpımtablosu\bin\Debug\21032022-ıcıcrforcarpımtablosu.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıcıcrforcarpımtablosu\bin\Debug\21032022-ıcıcrforcarpımtablosu.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıcıcrforcarpımtablosu\bin\Debug\21032022-ıcıcrforcarpımtablosu.pdb
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıcıcrforcarpımtablosu\obj\Debug\21032022-ıcıcrforcarpımtablosu.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıcıcrforcarpımtablosu\obj\Debug\21032022-ıcıcrforcarpımtablosu.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-ıcıcrforcarpımtablosu\obj\Debug\21032022-ıcıcrforcarpımtablosu.pdb

@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\18032022-10sayıyı toplayıp 5.bolen program\bin\Debug\18032022-10sayıyı toplayıp 5.bolen program.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\18032022-10sayıyı toplayıp 5.bolen program\bin\Debug\18032022-10sayıyı toplayıp 5.bolen program.exe
+C:\Users\STUDENT2\Desktop\ozgur\18032022-10sayıyı toplayıp 5.bolen program\bin\Debug\18032022-10sayıyı toplayıp 5.bolen program.pdb
+C:\Users\STUDENT2\Desktop\ozgur\18032022-10sayıyı toplayıp 5.bolen program\obj\Debug\18032022-10sayıyı toplayıp 5.bolen program.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\18032022-10sayıyı toplayıp 5.bolen program\obj\Debug\18032022-10sayıyı toplayıp 5.bolen program.exe
+C:\Users\STUDENT2\Desktop\ozgur\18032022-10sayıyı toplayıp 5.bolen program\obj\Debug\18032022-10sayıyı toplayıp 5.bolen program.pdb

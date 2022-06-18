@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\notrnegatıfpozısıtf\obj\Debug\notrnegatıfpozısıtf.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\notrnegatıfpozısıtf\bin\Debug\notrnegatıfpozısıtf.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\notrnegatıfpozısıtf\bin\Debug\notrnegatıfpozısıtf.exe
+C:\Users\STUDENT2\Desktop\ozgur\notrnegatıfpozısıtf\bin\Debug\notrnegatıfpozısıtf.pdb
+C:\Users\STUDENT2\Desktop\ozgur\notrnegatıfpozısıtf\obj\Debug\notrnegatıfpozısıtf.exe
+C:\Users\STUDENT2\Desktop\ozgur\notrnegatıfpozısıtf\obj\Debug\notrnegatıfpozısıtf.pdb

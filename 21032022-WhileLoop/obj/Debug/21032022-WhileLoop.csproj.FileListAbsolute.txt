@@ -1,0 +1,6 @@
+C:\Users\STUDENT2\Desktop\ozgur\21032022-WhileLoop\bin\Debug\21032022-WhileLoop.exe.config
+C:\Users\STUDENT2\Desktop\ozgur\21032022-WhileLoop\bin\Debug\21032022-WhileLoop.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-WhileLoop\bin\Debug\21032022-WhileLoop.pdb
+C:\Users\STUDENT2\Desktop\ozgur\21032022-WhileLoop\obj\Debug\21032022-WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\ozgur\21032022-WhileLoop\obj\Debug\21032022-WhileLoop.exe
+C:\Users\STUDENT2\Desktop\ozgur\21032022-WhileLoop\obj\Debug\21032022-WhileLoop.pdb
